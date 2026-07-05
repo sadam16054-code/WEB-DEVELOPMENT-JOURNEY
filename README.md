@@ -8,19 +8,19 @@ I am a Computer Software Engineering student at the University of Engineering an
 
 ## 📌 About This Repository
 
-This repository is where I document my web development journey by sharing everything I learn, build, and improve along the way.
+This repository is where I document my web development journey by sharing everything I learn, build, and improve along the way.<br>
 
-It includes:
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
-- React.js
-- Node.js
-- Express.js
-- MongoDB
+It includes:<br>
+- HTML<br>
+- CSS<br>
+- JavaScript<br>
+- Bootstrap<br>
+- React.js<br>
+- Node.js<br>
+- Express.js<br>
+- MongoDB<br>
 
-Each folder contains my practice code, projects, and notes as I continue developing my skills.
+Each folder contains my practice code, projects, and notes as I continue developing my skills.<br>
 
 ---
 
@@ -28,15 +28,15 @@ Each folder contains my practice code, projects, and notes as I continue develop
 
 
 web-development-journey/
-│
-├── HTML/
-├── CSS/
-├── JavaScript/
-├── Bootstrap/
-├── ReactJS/
-├── NodeJS/
-├── ExpressJS/
-└── MongoDB/
+│<br>
+├── HTML/<br>
+├── CSS/<br>
+├── JavaScript/<br>
+├── Bootstrap/<br>
+├── ReactJS/<br>
+├── NodeJS/<br>
+├── ExpressJS/<br>
+└── MongoDB/<br>
 
 ---
 
