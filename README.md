@@ -1,4 +1,4 @@
-# 🚀 Web Development Journey
+#  Web Development Journey
 
 Welcome to my Web Development learning journey!
 
